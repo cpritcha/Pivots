@@ -2,14 +2,8 @@
 
 Quick pivot tables in Julia.
 
-# Examples
+# Quick Introduction
 
-```julia
-using RDatasets
-using Dataframes
-using Pivot
+Please see the `doc` folder.
 
-df = dataset("mlmRev", )
-```
-
-[![Build Status](https://travis-ci.org/cpritcha/Tabular.jl.svg?branch=master)](https://travis-ci.org/cpritcha/Tabular.jl)
+[![Build Status](https://travis-ci.org/cpritcha/Pivots.jl.svg?branch=master)](https://travis-ci.org/cpritcha/Pivots.jl)
